@@ -18,7 +18,5 @@ return array(
 		array( 'Vi är så väldigt nöjda med och rekommenderar Homsis bygg. Ett mycket väl utfört arbete från start till mål. Därtill ett mycket professionellt och trevligt bemötande. Toppen på alla vis!', 'Angela Brun', 'för 2 år sedan' ),
 		array( 'Otroligt duktiga och kompetenta. Svarade oss snabbt med offert, otroligt hjälpsamma. Vi är supernöjda med insatsen från Homsis bygg. Det var inte sista gången vi anlitar dem! Stort tack', 'Cissi Gustavsson', 'för 3 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
 	'ar_riktig'      => true,
 );
