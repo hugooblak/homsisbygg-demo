@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Homsis Bygg AB',
+	'bransch'        => 'Byggfirma',
 	'telefon'        => '073-531 27 28',
 	'telefon_tel'    => '+46735312728',
 	'ort'            => 'Mölndal',
